@@ -1,4 +1,5 @@
 # NewsFeed
+Stay updated with the latest info with just a click.
 NewsFeed is an android application which displays the real time news data fetched from an API. This application uses Open APi from NewsApi.org .
 
 This application uses fragment as frame layout which contains five tabs .
